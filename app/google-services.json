@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "538403565011",
+    "firebase_url": "https://elight-f0818.firebaseio.com",
+    "project_id": "elight-f0818",
+    "storage_bucket": "elight-f0818.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538403565011:android:9674597a18ea6c74",
+        "android_client_info": {
+          "package_name": "com.elight.e_light"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "538403565011-b67ov5lqisu23u481blvvhbn42hfcd83.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.elight.e_light",
+            "certificate_hash": "93421c00eb37feb8d41d2bae90edd0858ab873b2"
+          }
+        },
+        {
+          "client_id": "538403565011-mr848rao1j3lrbckpl672pddrrh5sef9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgUNwOaBt3loGmQbZFvgiQMx9x-_k2WCc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "538403565011-mr848rao1j3lrbckpl672pddrrh5sef9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
